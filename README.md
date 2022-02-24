@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Andrew Kimball. I am a Masters of Information Systems student at BYU. Browse my pinned repositories to see some of the projects I have worked on as part of my coursework in my program.
+
+
+- Languages: Python, SQL, JavaScript, Ruby, C#, HTML, CSS, Bash
+
+- Framworks/Libraries: PyTorch, Scikit Learn, Django, ASP.NET
+
+- Visualization: Tableau, Sisense, Seaborn
+
+- Cloud Technologies (Intermediate Experience): AWS EC2, VPC, RDS, CodePipeline, S3, Lambda, DynamoDB
+https://www.linkedin.com/in/andrewckimball/
+
 <!--
 **andrewckimball/andrewckimball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
