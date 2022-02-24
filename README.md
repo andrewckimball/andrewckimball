@@ -7,7 +7,7 @@ My name is Andrew Kimball. I am a Masters of Information Systems student at BYU.
 - Framworks/Libraries: PyTorch, Scikit Learn, Django, ASP.NET
 - Visualization: Tableau, Sisense, Seaborn
 - Cloud Technologies (Intermediate Experience): AWS EC2, VPC, RDS, CodePipeline, S3, Lambda, DynamoDB
-- How to reach me: https://www.linkedin.com/in/andrewckimball/, andrewckimball@gmail.com
+- How to reach me: https://www.linkedin.com/in/andrewckimball/ || andrewckimball@gmail.com
 
 <!--
 **andrewckimball/andrewckimball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
