@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Kimball. I am a Masters of Information Systems student at BYU. Browse my pinned repositories to see some of the projects I have worked on as part of my coursework in my program.
+My name is Andrew Kimball. I am a Masters of Information Systems student at BYU. Browse my pinned repositories to see some of the projects I have worked on as part of the coursework in my program.
 
 
 - Languages: Python, SQL, JavaScript, Ruby, C#, HTML, CSS, Bash
