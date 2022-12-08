@@ -5,8 +5,8 @@ My name is Andrew Kimball. I am a Masters of Information Systems student at BYU.
 
 - Languages: Python, SQL, JavaScript, Ruby, C#, HTML, CSS, Bash
 - Frameworks/Libraries: Pandas, NumPy, PyTorch, Scikit Learn, Django, ASP.NET, React, NodeJS
-- Specialized Skills: ETL, Data Analysis, Advanced SQL (Functions, Triggers, Stored Procedures)
-- Visualization: Tableau, Sisense
+- Data Skills: ETL/Reverse ETL, Data Analysis, Data Pipelines, Advanced SQL (Functions, Triggers, Stored Procedures)
+- Visualization: Domo, Tableau, Sisense
 - Cloud Technologies (Intermediate Experience): AWS EC2, VPC, RDS, CodePipeline, S3, Lambda, DynamoDB
 - How to reach me: https://www.linkedin.com/in/andrewckimball/   |    andrewckimball@gmail.com
 
