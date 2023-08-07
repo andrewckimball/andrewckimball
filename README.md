@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Kimball. I am a Masters of Information Systems student at BYU. Browse my pinned repositories to see some of the projects I have worked on as part of the coursework in my program.
+Assisting clients with data warehouse architecture, 3rd party data connections, and BI development at Clearsquare.
 
 
 - Languages: Python, SQL, JavaScript, Ruby, C#, HTML, CSS, Bash
